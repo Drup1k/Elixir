@@ -26,5 +26,4 @@ cards-*.tar
 /tmp/
 mix.exs
 .formatter.exs
-readme.md
 .idea
