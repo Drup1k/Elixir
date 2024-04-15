@@ -22,6 +22,3 @@ Ill create a simple Cards game to start learning Elixir.
 
 **load:** Load a collection of cards from the local machine.
 
-
-
-![image](https://github.com/Drup1k/Elixir/assets/146526641/78366166-bd3f-4dd7-ba98-8cacd598aac3)
